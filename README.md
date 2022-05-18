@@ -1,4 +1,4 @@
-# Using the Stereolab ZED 2 streams with Nvidia Deepstream YOLO example
+# Using the Stereolab ZED 2 streams with Nvidia Deepstream YOLO example gstreamer pipline examples
  
 Here are some gstreamer pipelines that you can use to get the video stream from a ZED 2 camera
  and use it with nvidia Deepstream. This uses the Deepstream YOLO example.
