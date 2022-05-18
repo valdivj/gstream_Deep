@@ -4,13 +4,17 @@ Here are some gstreamer pipelines that you can use to get the video stream from 
  and use it with nvidia Deepstream. This uses the Deepstream YOLO example.
  
  Here is link to a video that gives explanation on how to do it
+ 
  https://youtu.be/w4VuFPR5F9w
  
  Link to Stereo lab gstreamer github repo
+ 
  https://github.com/stereolabs/zed-gstreamer
  
  link to Nvidia Deepstream install for jetson
+ 
  https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_Quickstart.html#jetson-setup
+ 
  
  ZED2 Left image & YOLO Deepstream 6.0.1
  
